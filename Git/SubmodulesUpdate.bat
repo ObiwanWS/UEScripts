@@ -2,6 +2,8 @@
 
 ::Cookie
 @echo Unreal Git submodules update script by Obiwan Medeiros.
+@echo This script assumes the UnrealScripts repository has been added to your project as a submodule.
+@echo It may not work otherwise.
 echo:
 
 :: Get root directory
